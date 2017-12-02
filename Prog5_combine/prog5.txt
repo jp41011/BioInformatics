@@ -1,0 +1,3 @@
+﻿Juan Pedraza - CSci 291T - Prog5
+
+From the generated histogram graphs we can see that in all three readsize (50, 70, 100) cases. The graphs show that there is a bi modular tendency in all three readsize cases. With the modes being towards the top (near 100) and the bottom (near 0). Also as the readSize increase then the bi modular tendency seems to become more pronounced. The density graphs also show the same thing in a different format. Also when we start comparing the readsizes to each other, using the scatter plots, we see that the longer the readsize length the higher more mappable it is. We can this easier to see if we add the ab line (0, 1). with the line we see an obvious pattern, the higher the readsize the higher mappability we have.

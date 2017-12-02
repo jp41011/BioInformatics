@@ -1,0 +1,607 @@
+Juan Pedraza - Prog6 - Output File
+==================================
+
+--query len = 378
+>gi|1684788|gb|AAB36530.1| 4-phosphoerythronate dehydrogenase [Escherichia coli str. K-12 substr. W3110]
+MKILVDENMPYARDLFSRLGEVTAVPGRPIPVAQLADADALMVRSVTKVNESLLAGKPIKFVGTATAGTDHVDEAWLKQAGIGFSAAPGCNAIAVVEYVFSSLLMLAERDGFSLYDRTVGIVGVGNVGRRLQARLEALGIKTLLCDPPRADRGDEGDFRSLDELVQRADILTFHTPLFKDGPYKTLHLADEKLIRSLKPGAILINACRGAVVDNTALLTCLNEGQKLSVVLDVWEGEPELNVELLKKVDIGTSHIAGYTLEGKARGTTQVFEAYSKFIGHEQHVALDTLLPAPEFGRITLHGPLDQPTLKRLVHLVYDVRRDDAPLRKVAGIPGEFDKLRKNYLERREWSSLYVICDDASAASLLCKLGFNAVHHPAR
+
+>gi|745997998|sp|P0DKH9.1|AREP1_ARATH RecName: Full=Auxin-responsive endogenous peptide 1 [Arabidopsis thaliana]
+SW_Score = 20	(i = 4, j = 38)	alignment_len = 11
+Query:	38	ADALMVRSVTK	48
+			+D+L+_R_V++
+Sbjct:	4	SDCLIYRLVVR	14
+
+>gi|745997997|sp|P0DKH8.1|AMP2_FAGES RecName: Full=Antimicrobial peptide 2; Short=Fa-AMP2 [Fagopyrum esculentum]
+SW_Score = 17	(i = 8, j = 83)	alignment_len = 7
+Query:	83	GFSAAPG	89
+			G_+++PG
+Sbjct:	8	GGATCPG	14
+
+>gi|745997996|sp|P0DKH7.1|AMP1_FAGES RecName: Full=Antimicrobial peptide 1; Short=Fa-AMP1 [Fagopyrum esculentum]
+SW_Score = 17	(i = 8, j = 83)	alignment_len = 7
+Query:	83	GFSAAPG	89
+			G_+++PG
+Sbjct:	8	GGATCPG	14
+
+>gi|745755594|sp|Q29243.2|DAG1_PIG RecName: Full=Dystroglycan; AltName: Full=Dystrophin-associated glycoprotein 1; Contains: RecName: Full=Alpha-dystroglycan; Short=Alpha-DG; Contains: RecName: Full=Beta-dystroglycan; Short=Beta-DG; Flags: Precursor [Sus scrofa]
+SW_Score = 29	(i = 609, j = 104)	alignment_len = 26
+Query:	104	LMLAERDGFSLYDRTVGIVGVGNVGR	129
+			+_L+++_+F++_DR+_+_+_+_N+_R
+Sbjct:	609	IALVKKLAFAFGDRNCSTITLQNITR	634
+
+>gi|745755649|sp|P9WGI9.2|GLYA1_MYCTU RecName: Full=Serine hydroxymethyltransferase 1; Short=SHM1; Short=SHMT 1; Short=Serine methylase 1 [Mycobacterium tuberculosis H37Rv]
+SW_Score = 36	(i = 306, j = 38)	alignment_len = 19
+Query:	38	ADALMVRSVTKVNESLLAG	56
+			AD_LM+_+V+K++_S+++G
+Sbjct:	306	ADRLMAPDVAKAGVSVVSG	324
+
+>gi|745755659|sp|Q5PR66.2|IFT56_DANRE RecName: Full=Intraflagellar transport protein 56; AltName: Full=Tetratricopeptide repeat protein 26; Short=TPR repeat protein 26 [Danio rerio]
+SW_Score = 32	(i = 317, j = 47)	alignment_len = 73
+Query:	47	TKVNESLLAGKPIKFVGTATAGTDHVDEAWLKQAGIGFSAAPGCNAIAVVEYVFSSLLMLAERDGFSLYDRTV	119
+			T__+E_+L_G_____+G___++_DH+__A______+G_SA+__C++I___+_+_S_+++L_+_+___+Y_++V
+Sbjct:	317	TTPQEYILKGVVNAALGQEIGSRDHLKIAQQFFQLVGGSASE-CDTIPGRQCMASCFFLLKQFEDVLIYLNSV	388
+
+>gi|728048777|sp|I1JLC8.1|SLE2_SOYBN RecName: Full=Protein SLE2; AltName: Full=Em protein; AltName: Full=Protein Glycine max physiologically mature 11; AltName: Full=Protein GmD-19; AltName: Full=Soybean group-1 late embryogenesis abundant protein 2; AltName: Full=Soybean group-1 lea protein 2; Short=Sle2 [Glycine max]
+SW_Score = 26	(i = 5, j = 7)	alignment_len = 21
+Query:	7	ENMPYARDLFSRLGEVTAVPG	27
+			+N_____D__+R_GE_T+VPG
+Sbjct:	5	QNNKQELDERARQGE-TVVPG	24
+
+>gi|728048695|sp|P0CT50.1|SDC_TRIMF RecName: Full=Salicylate decarboxylase; AltName: Full=Salicylic acid decarboxylase [Trichosporon moniliiforme]
+SW_Score = 30	(i = 47, j = 247)	alignment_len = 14
+Query:	247	KVDIGTSHIAGYTL	260
+			+++++++H__GYT+
+Sbjct:	47	RLELSNKHGIGYTI	60
+
+>gi|728048647|sp|F1QEG2.1|KL41B_DANRE RecName: Full=Kelch-like protein 41b; AltName: Full=Kelch repeat and BTB domain-containing protein 10b [Danio rerio]
+SW_Score = 35	(i = 241, j = 232)	alignment_len = 34
+Query:	232	DVWEGEPELNVELLKKVDIGTSHIAGYTLEGKAR	265
+			D+_+G+P____ELLKK+++__+_+_G___E_K_+
+Sbjct:	241	DIIKGDP----ELLKKLQLVKDAFKGKLPEKKPK	270
+
+>gi|728048573|sp|C0HJB3.1|MANA_CANEN RecName: Full=Alpha-mannosidase; Short=JBM; Short=Jbalpha-man; Contains: RecName: Full=Alpha-mannosidase, heavy subunit; Contains: RecName: Full=Alpha-mannosidase, light subunit, partial [Canavalia ensiformis]
+SW_Score = 48	(i = 23, j = 71)	alignment_len = 40
+Query:	71	HVDEAWLKQAGIGFSAAPGCNAIAVVEYVFSSLLMLAERD	110
+			H_D_+WLK_+___+_++_+____A_VE_V++S++M__+RD
+Sbjct:	23	HDDVGWLKTVDQYYVGSENYIQEACVENVLDSVVMSLQRD	62
+
+>gi|728048514|sp|S4R3Y5.1|HMN11_HUMAN RecName: Full=Humanin-like 11; Short=HN11; AltName: Full=MT-RNR2-like protein 11 [Homo sapiens]
+SW_Score = 20	(i = 6, j = 100)	alignment_len = 7
+Query:	100	FSSLLML	106
+			FS_LL++
+Sbjct:	6	FSCLLLV	12
+
+>gi|727863585|sp|Q6ZM89.3|RH42A_DANRE RecName: Full=Rho GTPase-activating protein 42; AltName: Full=Rho GTPase-activating protein 10-like; AltName: Full=Rho-type GTPase-activating protein 42 [Danio rerio]
+SW_Score = 33	(i = 755, j = 152)	alignment_len = 25
+Query:	152	RGDEGDFRSLDELVQRADILTFHTP	176
+			R+_+G+++SL_+__QR_++_++H_P
+Sbjct:	755	RSCHGSIQSLVSRSQRDSLKSLHMP	779
+
+>gi|728047640|sp|D6REC4.1|CFA99_HUMAN RecName: Full=Cilia- and flagella-associated protein 99 [Homo sapiens]
+SW_Score = 33	(i = 224, j = 246)	alignment_len = 18
+Query:	246	KKVDIGTSHIAGYTLEGK	263
+			K_VD+__++I_GY_LEG+
+Sbjct:	224	KLVDL--TQIPGYGLEGE	239
+
+>gi|728047699|sp|P0DMQ6.1|DHSO_CHICK RecName: Full=Sorbitol dehydrogenase; AltName: Full=L-iditol 2-dehydrogenase [Gallus gallus]
+SW_Score = 30	(i = 89, j = 2)	alignment_len = 25
+Query:	2	KILVDENMPYARDLFSRLGEVTAVP	26
+			++_++_++P___D_F_+_G+_+__P
+Sbjct:	89	RVAIEPGVPRETDEFCKTGRYNLSP	113
+
+>gi|704045459|sp|G0SC29.2|NLE1_CHATD RecName: Full=Ribosome assembly protein 4; AltName: Full=Notchless protein homolog 1; AltName: Full=Ribosome biogenesis factor RSA4 [Chaetomium thermophilum var. thermophilum DSM 1495]
+SW_Score = 29	(i = 420, j = 65)	alignment_len = 17
+Query:	65	ATAGTDHVDEAWLKQAG	81
+			A+AG_D+__+_W__+_G
+Sbjct:	420	ASAGWDNSTKLWNARDG	436
+
+>gi|704045435|sp|Q9SX54.2|SCRK8_ARATH RecName: Full=Putative fructokinase-8 [Arabidopsis thaliana]
+SW_Score = 28	(i = 130, j = 181)	alignment_len = 53
+Query:	181	GPYKTLHLADEKLIRSLKPGAILINACRGAVVDNTALLTCLNEGQKLSVVLDV	233
+			G__+T+H+_____+_+___G__+++A__+_+VD+_++L___+E_++L__VL_+
+Sbjct:	130	GSVETFHV---DAVDTTGAGDSFVGALLNQIVDDQSVL---EEEERLRKVLRI	176
+
+>gi|704044129|sp|P0DMQ3.1|TO1D_HADMO RecName: Full=Omega-hexatoxin-Hmo1d; Flags: Precursor [Hadronyche modesta]
+SW_Score = 24	(i = 2, j = 85)	alignment_len = 36
+Query:	85	SAAPGCNAIAVVEYVFSSL----LMLAERDGFSLYD	116
+			++A_G__A+_V+__V++_+_____M___+_GF+_YD
+Sbjct:	2	NTATGVIALLVLATVIGCIQAEDTMADLQGGFESYD	37
+
+>gi|704044123|sp|P0DMQ2.1|TO1C_HADMO RecName: Full=Omega-hexatoxin-Hmo1c; Flags: Precursor [Hadronyche modesta]
+SW_Score = 25	(i = 55, j = 6)	alignment_len = 12
+Query:	6	DENMPYARDLFS	17
+			D+__PY_+D__S
+Sbjct:	55	DQPCPYDQDCCS	66
+
+>gi|704044116|sp|P0DMQ1.1|TO1B_HADMO RecName: Full=Omega-hexatoxin-Hmo1b; Flags: Precursor [Hadronyche modesta]
+SW_Score = 25	(i = 55, j = 6)	alignment_len = 12
+Query:	6	DENMPYARDLFS	17
+			D+__PY_+D__S
+Sbjct:	55	DQPCPYDQDCCS	66
+
+>gi|704044110|sp|P0DMQ0.1|TO1A_HADMO RecName: Full=Omega-hexatoxin-Hmo1a; Flags: Precursor [Hadronyche modesta]
+SW_Score = 24	(i = 55, j = 6)	alignment_len = 12
+Query:	6	DENMPYARDLFS	17
+			D+__PY_+D__S
+Sbjct:	55	DQPCPYNEDCCS	66
+
+>gi|704044094|sp|P0DMQ4.1|TK1A_HADMO RecName: Full=Kappa-hexatoxin-Hmo1d; Flags: Precursor [Hadronyche modesta]
+SW_Score = 23	(i = 29, j = 109)	alignment_len = 11
+Query:	109	RDGFSLYDRTV	119
+			+D_++L+_RT+
+Sbjct:	29	KDVMGLFRRTI	39
+
+>gi|704043461|sp|C0HJD7.1|NXL4_DENPO RecName: Full=Alpha-elapitoxin-Dpp2d; Short=Alpha-EPTX-Dpp2d [Dendroaspis polylepis polylepis]
+SW_Score = 21	(i = 36, j = 246)	alignment_len = 6
+Query:	246	KKVDIG	251
+			K+V++G
+Sbjct:	36	KRVELG	41
+
+>gi|704045556|sp|Q9SUC3.2|MS5_ARATH RecName: Full=Protein POLLENLESS 3; AltName: Full=Protein MALE STERILE 5; AltName: Full=Protein THREE-DIVISION MUTANT 1 [Arabidopsis thaliana]
+SW_Score = 32	(i = 254, j = 147)	alignment_len = 20
+Query:	147	PPRADRGDEGDFRSLDELVQ	166
+			P_+++_GDE___+S_D+_V+
+Sbjct:	254	PAESECGDEPFAKSYDRAVE	273
+
+>gi|704044187|sp|C0HJM7.1|TXL1_PHOPT RecName: Full=Toxin Tx1; Short=PpTx1, partial [Phoneutria pertyi]
+SW_Score = 15	(i = 3, j = 217)	alignment_len = 8
+Query:	217	LLTCLNEG	224
+			L_+C+__G
+Sbjct:	3	LTSCFPVG	10
+
+>gi|704000372|sp|E2RE76.2|APOA4_CANFA RecName: Full=Apolipoprotein A-IV; Short=Apo-AIV; Short=ApoA-IV; AltName: Full=Apolipoprotein A4; Flags: Precursor [Canis lupus familiaris]
+SW_Score = 38	(i = 93, j = 19)	alignment_len = 28
+Query:	19	LGEVTAVPGRPIPVAQLADADALMVRSV	46
+			+G+_+++_G+P+_VA_L_++D_L_V+SV
+Sbjct:	93	MGRQVGIFGQPLRVATLPNCD-LPVNSV	119
+
+>gi|704000369|sp|C9JSJ3.2|BHMG1_HUMAN RecName: Full=Basic helix-loop-helix and HMG box domain-containing protein 1 [Homo sapiens]
+SW_Score = 36	(i = 161, j = 292)	alignment_len = 39
+Query:	292	APEFGRITLHGPLDQPTLKRLVHLVYDVRRDDAPLRKVA	330
+			+P+__+__L+G__++P__K+L++___+__R___P_R++A
+Sbjct:	161	SPSSQKSCLQGACQKPRKKKLTQASESQTRTPKPRRSLA	199
+
+>gi|704000365|sp|B2NI93.2|GEDH_CARLC RecName: Full=Geraniol dehydrogenase; Short=GeDH; AltName: Full=Farnesol dehydrogenase; AltName: Full=NAD(+)-farnesol dehydrogenase [Carpoglyphus lactis]
+SW_Score = 31	(i = 66, j = 81)	alignment_len = 19
+Query:	81	GIGFSAAPGCNAIAVVEYV	99
+			GIG__A__G_++_++VE_V
+Sbjct:	66	GIGCPAIAGHEGAGIVESV	84
+
+>gi|704000364|sp|K7N5M5.2|HBA1_ELEMC RecName: Full=Hemoglobin subunit alpha 1; AltName: Full=Alpha-1-globin; AltName: Full=Hemoglobin alpha-1 chain [Eleginops maclovinus]
+SW_Score = 30	(i = 121, j = 281)	alignment_len = 10
+Query:	281	EQHVALDTLL	290
+			E_HV+LD_+L
+Sbjct:	121	EAHVSLDKFL	130
+
+>gi|704000363|sp|G0S616.2|MRT4_CHATD RecName: Full=Ribosome assembly factor mrt4; AltName: Full=mRNA turnover protein 4 [Chaetomium thermophilum var. thermophilum DSM 1495]
+SW_Score = 31	(i = 46, j = 337)	alignment_len = 9
+Query:	337	DKLRKNYLE	345
+			D++R+NYL+
+Sbjct:	46	DNMRNNYLK	54
+
+>gi|704000358|sp|C0HJM8.1|LEC_ALLCE RecName: Full=Lectin, partial [Allium cepa]
+SW_Score = 19	(i = 1, j = 44)	alignment_len = 10
+Query:	44	RSVTKVNESL	53
+			R+V___NE+L
+Sbjct:	1	RNVLLNNEGL	10
+
+>gi|704000357|sp|C0HJN0.1|KAX6V_HETLA RecName: Full=Potassium channel toxin alpha-KTx 6 hetlaxin [Heterometrus laoticus]
+SW_Score = 23	(i = 12, j = 325)	alignment_len = 9
+Query:	325	PLRKVAGIP	333
+			P_+K_+G_P
+Sbjct:	12	PCKKKTGCP	20
+
+>gi|704000346|sp|F1QDF8.1|FXJ1A_DANRE RecName: Full=Forkhead box protein J1-A [Danio rerio]
+SW_Score = 28	(i = 359, j = 221)	alignment_len = 8
+Query:	221	LNEGQKLS	228
+			LNEG+_LS
+Sbjct:	359	LNEGSPLS	366
+
+>gi|704000341|sp|P0DKH4.1|F26G_SOLTO RecName: Full=Furostanol glycoside 26-O-beta-glucosidase; AltName: Full=Torvosidase, partial [Solanum torvum]
+SW_Score = 27	(i = 3, j = 15)	alignment_len = 29
+Query:	15	LFSRLGEVTAVPGRPIPVAQLADADALMV	43
+			L_+++G+++_+_+R_I_+A___++_++++
+Sbjct:	3	LEEKIGQMSQIDARRIGAATALEVRGFLI	31
+
+>gi|704000316|sp|W5EP13.1|CA1P_WHEAT RecName: Full=2-carboxy-D-arabinitol-1-phosphatase; Flags: Precursor [Triticum aestivum]
+SW_Score = 32	(i = 30, j = 17)	alignment_len = 27
+Query:	17	SRLGEVTAVPGRPIPVAQLADADALMV	43
+			S_+_E+___P+RP_P+__LA+A__+++
+Sbjct:	30	SSVRELDRSPSRP-PLPPLAEAKRVVL	55
+
+>gi|746590800|sp|P0CT51.1|BLP1_CANAL RecName: Full=Blood-induced peptide 1 [Candida albicans SC5314]
+SW_Score = 29	(i = 53, j = 184)	alignment_len = 15
+Query:	184	KTLHLADEKLIRSLK	198
+			K+L++_+EKL_+_LK
+Sbjct:	53	KNLEMENEKLKNILK	67
+
+>gi|704000362|sp|Q59PD6.2|MAD1_CANAL RecName: Full=Spindle assembly checkpoint component MAD1 [Candida albicans SC5314]
+SW_Score = 35	(i = 180, j = 219)	alignment_len = 22
+Query:	219	TCLNEGQKLSVVLDVWEGEPEL	240
+			T++NE_++_S_+LD__+G+_+L
+Sbjct:	180	TAINELEQYSKILDKKNGSDNL	201
+
+>gi|703556459|sp|A2BD09.3|OLM2A_PIG RecName: Full=Olfactomedin-like protein 2A; Flags: Precursor [Sus scrofa]
+SW_Score = 30	(i = 565, j = 341)	alignment_len = 16
+Query:	341	KNYLERREWSSLYVIC	356
+			K+_L+R+++++_+++C
+Sbjct:	565	KTRLRRNSYGNCFLVC	580
+
+>gi|703556453|sp|P84718.2|PSBO_PINST RecName: Full=Putative oxygen-evolving enhancer protein 1; Short=OEE1; AltName: Full=33 kDa subunit of oxygen evolving system of photosystem II; AltName: Full=33 kDa thylakoid membrane protein; AltName: Full=OEC 33 kDa subunit; AltName: Full=PS2, partial [Pinus strobus]
+SW_Score = 30	(i = 16, j = 108)	alignment_len = 18
+Query:	108	ERDGFSLYDRTVGIVGVG	125
+			ER_G_+_YD++V++_+_G
+Sbjct:	16	ERGGSTGYDNAVALPAGG	33
+
+>gi|703556448|sp|P81018.2|LADD_ONCMY RecName: Full=Ladderlectin; Flags: Precursor [Oncorhynchus mykiss]
+SW_Score = 29	(i = 84, j = 89)	alignment_len = 28
+Query:	89	GCNAIAV---VEYVFSSLLMLAERDGFS	113
+			G+N__+V___+EY_F_+_++_++__GFS
+Sbjct:	84	GANLASVHSSAEYQFLQEVVASKTGGFS	111
+
+>gi|728048788|sp|C9J7I0.1|UMAD1_HUMAN RecName: Full=UBAP1-MVB12-associated (UMA)-domain containing protein 1; AltName: Full=RPA3 antisense RNA 1; AltName: Full=RPA3 opposite strand [Homo sapiens]
+SW_Score = 27	(i = 10, j = 5)	alignment_len = 68
+Query:	5	VDENMPYARDLFSRLGEVTAVPGRPIPVAQLADADALMVRSVTKVNESLLAGKPIKFVGTATAGTDHV	72
+			++_N+P___+__+__+_+++_P_____++Q__+_++LM++_++_V____LA___+___GT_T___DH+
+Sbjct:	10	IEANQPLETNKENSSSVTVSDPEMENKAGQTLENSSLMAELLSDV-PFTLAPHVLAVQGTITDLPDHL	76
+
+>gi|694016595|sp|Q5TYJ0.4|OBP71_ANOGA RecName: Full=General odorant-binding protein 71; Flags: Precursor [Anopheles gambiae]
+SW_Score = 26	(i = 206, j = 218)	alignment_len = 18
+Query:	218	LTCLNEGQKLSVVLDVWE	235
+			+TCL++__++++__D_WE
+Sbjct:	206	VTCLSD--RFETNCDDWE	221
+
+>gi|694016591|sp|U3KRG0.2|LECB1_CRATA RecName: Full=Bark lectin isoform 1; Short=CrataBL; Short=CrataBL-form I [Crateva tapia]
+SW_Score = 38	(i = 134, j = 117)	alignment_len = 17
+Query:	117	RTVGIVGVGNVGRRLQA	133
+			R_VGI__VG+_GRR__A
+Sbjct:	134	RDVGIETVGGGGRRYLA	150
+
+>gi|694016588|sp|C0HJA4.1|LECB2_CRATA RecName: Full=Bark lectin isoform 2; Short=CrataBL; Short=CrataBL-form II [Crateva tapia]
+SW_Score = 38	(i = 134, j = 117)	alignment_len = 17
+Query:	117	RTVGIVGVGNVGRRLQA	133
+			R_VGI__VG+_GRR__A
+Sbjct:	134	RDVGIETVGGGGRRYLA	150
+
+>gi|694016584|sp|C0HJL9.1|TAN_BACIU RecName: Full=Tannase; AltName: Full=Tannin acylhydrolase, partial [Bacillus subtilis]
+SW_Score = 15	(i = 3, j = 147)	alignment_len = 4
+Query:	147	PPRA	150
+			PP++
+Sbjct:	3	PPHS	6
+
+>gi|694016581|sp|P0DKH2.1|RI2BC_ARATH RecName: Full=Putative ribonucleoside-diphosphate reductase small chain B; AltName: Full=Ribonucleoside-diphosphate reductase R2B subunit; AltName: Full=Ribonucleotide reductase small subunit B [Arabidopsis thaliana]
+SW_Score = 25	(i = 26, j = 269)	alignment_len = 8
+Query:	269	QVFEAYSK	276
+			Q++E_Y+K
+Sbjct:	26	QIWEMYKK	33
+
+>gi|694016580|sp|C0HJM0.1|PPO3_SARAR RecName: Full=Phenoloxidase 3; AltName: Full=Tyrosinase 3, partial [Sarcophaga argyrostoma]
+SW_Score = 29	(i = 3, j = 314)	alignment_len = 10
+Query:	314	HLVYDVRRDD	323
+			HLVY_++__D
+Sbjct:	3	HLVYPIEAPD	12
+
+>gi|694016558|sp|D4A693.2|AZIN2_RAT RecName: Full=Antizyme inhibitor 2; Short=AzI2; AltName: Full=Ornithine decarboxylase-like protein; Short=ODC-like protein; AltName: Full=ornithine decarboxylase paralog; Short=ODC-p [Rattus norvegicus]
+SW_Score = 36	(i = 246, j = 18)	alignment_len = 14
+Query:	18	RLGEVTAVPGRPIP	31
+			R+_EVT+V_G+_IP
+Sbjct:	246	RFEEVTSVIGKNIP	259
+
+>gi|694016556|sp|F4I9R6.2|JA15S_ARATH RecName: Full=Jacalin-related lectin 15; AltName: Full=Protein JACALIN-TYPE LECTIN REQUIRED FOR POTEXVIRUS RESISTANCE1 [Arabidopsis thaliana]
+SW_Score = 37	(i = 104, j = 327)	alignment_len = 12
+Query:	327	RKVAGIPGEFDK	338
+			+K++G+_G+FDK
+Sbjct:	104	KKIVGFHGSFDK	115
+
+>gi|694016548|sp|S4R3P1.1|HMN13_HUMAN RecName: Full=Humanin-like 13; Short=HN13; AltName: Full=MT-RNR2-like protein 13 [Homo sapiens]
+SW_Score = 24	(i = 6, j = 100)	alignment_len = 18
+Query:	100	FSSLLMLAERDGFSLYDR	117
+			FS_LL+L_++__+S+__R
+Sbjct:	6	FSCLLLLISEIDLSVKRR	23
+
+>gi|694016547|sp|P0DMP1.1|HMN12_HUMAN RecName: Full=Humanin-like 12; Short=HN12; AltName: Full=MT-RNR2-like protein 12 [Homo sapiens]
+SW_Score = 19	(i = 6, j = 100)	alignment_len = 6
+Query:	100	FSSLLM	105
+			FS_LL+
+Sbjct:	6	FSCLLL	11
+
+>gi|694016530|sp|C0HJM6.1|CHIT_TRISX RecName: Full=Endochitinase; AltName: Full=Chitinase; AltName: Allergen=Trip s 1, partial [Triplochiton scleroxylon]
+SW_Score = 15	(i = 6, j = 79)	alignment_len = 3
+Query:	79	QAG	81
+			QAG
+Sbjct:	6	QAG	8
+
+>gi|694016529|sp|P86977.1|CHIT_STRVO RecName: Full=Chitinase, partial [Streptomyces violaceusniger]
+SW_Score = 19	(i = 1, j = 81)	alignment_len = 9
+Query:	81	GIGFSAAPG	89
+			G_G_+_+PG
+Sbjct:	1	GDGTGPGPG	9
+
+>gi|693586058|sp|Q6ZMS4.4|ZN852_HUMAN RecName: Full=Zinc finger protein 852 [Homo sapiens]
+SW_Score = 29	(i = 470, j = 205)	alignment_len = 44
+Query:	205	NACRGAVVDNTAL--LTCLNEGQK-LSVVLDVWEGEPELNVELL	245
+			N+C__A__D++_L_____++_G+K_L__VL+V__G+P_++V_LL
+Sbjct:	470	NSCGKAFSDSSQLTVHQRVHTGEKNLMNVLSV--GKPLVSVPLL	511
+
+>gi|694016571|sp|P0DL37.1|KAX6L_UROYA RecName: Full=Potassium channel toxin alpha-KTx 6.21; AltName: Full=Urotoxin; Flags: Precursor [Urodacus yaschenkoi]
+SW_Score = 22	(i = 10, j = 164)	alignment_len = 12
+Query:	164	LVQRADILTFHT	175
+			LV__+_+LTF_T
+Sbjct:	10	LVVTTMMLTFDT	21
+
+>gi|75523137|sp|Q7M181.1|ACLR_ACHOB RecName: Full=2-aminohexano-6-lactam racemase; AltName: Full=2-amino-hexano-6-lactam racemase; AltName: Full=Alpha-amino-epsilon-caprolactam racemase [Achromobacter obae]
+SW_Score = 35	(i = 34, j = 4)	alignment_len = 37
+Query:	4	LVDENMPYARDLFSRLGEVTAVPGRPIPVAQLADADA	40
+			L++EN_____DL_+__G_++___G+P__VA_++_A_A
+Sbjct:	34	LIEENGRELIDLSGAWGAASLGYGHPAIVAAVSAAAA	70
+
+>gi|678021173|sp|Q9C918.2|UBC38_ARATH RecName: Full=Putative ubiquitin-conjugating enzyme E2 38; AltName: Full=Ubiquitin carrier protein 38 [Arabidopsis thaliana]
+SW_Score = 29	(i = 64, j = 192)	alignment_len = 16
+Query:	192	KLIRSLKPGAILINAC	207
+			K++++__P_+I+++AC
+Sbjct:	64	KILNQNLPETIFVRAC	79
+
+>gi|678019224|sp|C0HJK0.1|VP_DINQU RecName: Full=Venom peptides; Contains: RecName: Full=Peptide Dq-1984; Contains: RecName: Full=Peptide Dq-1897; Contains: RecName: Full=Peptide Dq-1839/Dq-1840/Dq-1856 [Dinoponera quadriceps]
+SW_Score = 20	(i = 1, j = 56)	alignment_len = 9
+Query:	56	GKPIKFVGT	64
+			G+_+K+V+T
+Sbjct:	1	GSLVKLVST	9
+
+>gi|678019209|sp|C0HJK2.1|VP987_DINQU RecName: Full=Peptide Dq-987; Contains: RecName: Full=Peptide Dq-761 [Dinoponera quadriceps]
+SW_Score = 19	(i = 1, j = 30)	alignment_len = 8
+Query:	30	IPVAQLAD	37
+			+P+_+L+D
+Sbjct:	1	LPLDDLSD	8
+
+>gi|678019205|sp|C0HJK4.1|VP88_DINQU RecName: Full=Peptide Dq-1288; Contains: RecName: Full=Peptide Dq-1061 [Dinoponera quadriceps]
+SW_Score = 14	(i = 8, j = 103)	alignment_len = 4
+Query:	103	LLML	106
+			LL+L
+Sbjct:	8	LLLL	11
+
+>gi|678019201|sp|C0HJK3.1|VP32_DINQU RecName: Full=Peptide Dq-1132 [Dinoponera quadriceps]
+SW_Score = 14	(i = 5, j = 147)	alignment_len = 2
+Query:	147	PP	148
+			PP
+Sbjct:	5	PP	6
+
+>gi|678019198|sp|C0HJK1.1|VP30_DINQU RecName: Full=Peptide Dq-1030 [Dinoponera quadriceps]
+SW_Score = 16	(i = 1, j = 319)	alignment_len = 5
+Query:	319	VRRDD	323
+			+R_DD
+Sbjct:	1	LRPDD	5
+
+>gi|678019123|sp|C0HJK5.1|TXHM3_HERML RecName: Full=Neurotoxin Hm-3 [Heriaeus melloteei]
+SW_Score = 18	(i = 12, j = 84)	alignment_len = 11
+Query:	84	FSAAPGCNAIA	94
+			FS+___C+A++
+Sbjct:	12	FSGEWCCGALS	22
+
+>gi|678019117|sp|C0HJH6.1|TX62_DINQU RecName: Full=Dinoponeratoxin Dq-3162/Dq-3163/Dq-3178 [Dinoponera quadriceps]
+SW_Score = 26	(i = 4, j = 232)	alignment_len = 17
+Query:	232	DVWEGEPELNVELLKKV	248
+			D_W+_+_+__VE++K++
+Sbjct:	4	DWWNKHKDKIVEVVKEM	20
+
+>gi|678019113|sp|C0HJH7.1|TX04_DINQU RecName: Full=Dinoponeratoxin Dq-3104 [Dinoponera quadriceps]
+SW_Score = 24	(i = 4, j = 232)	alignment_len = 15
+Query:	232	DVWEGEPELNVELLK	246
+			D_W+_+_+__VE++K
+Sbjct:	4	DWWNKHKDKIVEVVK	18
+
+>gi|678000802|sp|I1N462.3|SBT1_SOYBN RecName: Full=Subtilisin-like protease Glyma18g48580; Contains: RecName: Full=Subtilase peptide GmSubPep; AltName: Full=Glycine max subtilase peptide; Short=GmSubPep; Flags: Precursor [Glycine max]
+SW_Score = 43	(i = 541, j = 87)	alignment_len = 27
+Query:	87	APGCNAIAVV-EYVFSSLLMLAERDGF	112
+			APG_N_+A+__E++_+S_L++_+R_GF
+Sbjct:	541	APGVNILAAYSEFASASSLLVDNRRGF	567
+
+>gi|678000774|sp|Q0J0A4.3|LPAAT_ORYSJ RecName: Full=Probable 1-acylglycerol-3-phosphate O-acyltransferase; AltName: Full=Lipid droplet-binding protein CGI-58 homolog [Oryza sativa Japonica Group]
+SW_Score = 27	(i = 133, j = 158)	alignment_len = 14
+Query:	158	FRSLDELVQRADIL	171
+			FR++D_L++R__++
+Sbjct:	133	FRNFDALASRFRVI	146
+
+>gi|678000753|sp|Q7XMI0.3|KCY2_ORYSJ RecName: Full=Probable UMP/CMP kinase 2 [Oryza sativa Japonica Group]
+SW_Score = 29	(i = 121, j = 239)	alignment_len = 9
+Query:	239	ELNVELLKK	247
+			E++VEL++K
+Sbjct:	121	EITVELIRK	129
+
+>gi|678000260|sp|Q9SGX9.2|ESFL1_ARATH RecName: Full=EMBRYO SURROUNDING FACTOR 1-like protein 1; Flags: Precursor [Arabidopsis thaliana]
+SW_Score = 27	(i = 29, j = 44)	alignment_len = 13
+Query:	44	RSVTKVNESLLAG	56
+			R___KVNE+_+_G
+Sbjct:	29	RHSQKVNEACVPG	41
+
+>gi|678000242|sp|A8MQP7.2|ESFL7_ARATH RecName: Full=EMBRYO SURROUNDING FACTOR 1-like protein 7; Flags: Precursor [Arabidopsis thaliana]
+SW_Score = 23	(i = 6, j = 93)	alignment_len = 16
+Query:	93	IAVVEYVFSSLLMLAE	108
+			IA++__V+_SL+_L_E
+Sbjct:	6	IALICIVMFSLFALHE	21
+
+>gi|678000229|sp|O82377.2|ESFL6_ARATH RecName: Full=EMBRYO SURROUNDING FACTOR 1-like protein 6; Flags: Precursor [Arabidopsis thaliana]
+SW_Score = 22	(i = 29, j = 357)	alignment_len = 13
+Query:	357	DDASAASLLCKLG	369
+			D__+_+S_+C_LG
+Sbjct:	29	DANKLGSSVCHLG	41
+
+>gi|678000206|sp|Q0J6P7.2|KAD5_ORYSJ RecName: Full=Probable adenylate kinase 5, chloroplastic; AltName: Full=Adenylate monophosphate kinase 5; Flags: Precursor [Oryza sativa Japonica Group]
+SW_Score = 31	(i = 202, j = 199)	alignment_len = 15
+Query:	199	PGAILINACRGAVVD	213
+			P__ILI+_C_G__+D
+Sbjct:	202	PDDILIDRCVGRRLD	216
+
+>gi|678000108|sp|A2ZU80.2|NRT24_ORYSJ RecName: Full=Probable high-affinity nitrate transporter 2.4; Short=OsNRT2.4 [Oryza sativa Japonica Group]
+SW_Score = 35	(i = 304, j = 358)	alignment_len = 20
+Query:	358	DASAASLLCKLGFNAVHHPA	377
+			+A++A+__C__++NAV_+PA
+Sbjct:	304	EAAGAAAACFGAMNAVARPA	323
+
+>gi|678000080|sp|K7LFJ0.2|PP890_SOYBN RecName: Full=Protein PROPEP890; Short=GmPROPEP890; Contains: RecName: Full=Peptide GmPep890; Flags: Precursor [Glycine max]
+SW_Score = 23	(i = 25, j = 146)	alignment_len = 6
+Query:	146	DPPRAD	151
+			D_P+AD
+Sbjct:	25	DKPQAD	30
+
+>gi|677995804|sp|P0DMM5.1|MCSB_GEOSE RecName: Full=Protein-arginine kinase [Geobacillus stearothermophilus]
+SW_Score = 35	(i = 113, j = 272)	alignment_len = 20
+Query:	272	EAYSKFIGHEQHVALDTLLP	291
+			E__S_+I++E+H+_++_L+P
+Sbjct:	113	EEISIMINEEDHIRIQCLFP	132
+
+>gi|677995449|sp|P86907.1|PA2A_BOTAM RecName: Full=Acidic phospholipase A2; Short=svPLA2; AltName: Full=Phosphatidylcholine 2-acylhydrolase [Bothrops ammodytoides]
+SW_Score = 24	(i = 9, j = 326)	alignment_len = 9
+Query:	326	LRKVAGIPG	334
+			++K+AG__G
+Sbjct:	9	IKKIAGRSG	17
+
+>gi|677992918|sp|P0DMM7.1|SLB_TROWA RecName: Full=Snaclec trowaglerix subunit beta, partial [Tropidolaemus wagleri]
+SW_Score = 17	(i = 2, j = 144)	alignment_len = 4
+Query:	144	LCDP	147
+			LC_P
+Sbjct:	2	LCCP	5
+
+>gi|677992907|sp|P0DMM6.1|SLA_TROWA RecName: Full=Snaclec trowaglerix subunit alpha, partial [Tropidolaemus wagleri]
+SW_Score = 17	(i = 3, j = 220)	alignment_len = 4
+Query:	220	CLNE	223
+			C++E
+Sbjct:	3	CMSE	6
+
+>gi|677991645|sp|C0HJF7.1|ITR1_JATCU RecName: Full=Trypsin inhibitor 1; Short=JcTI-I, partial [Jatropha curcas]
+SW_Score = 21	(i = 18, j = 341)	alignment_len = 7
+Query:	341	KNYLERR	347
+			+NY+_+R
+Sbjct:	18	ENYITQR	24
+
+>gi|677991295|sp|P0DKH1.1|ESFL2_ARATH RecName: Full=EMBRYO SURROUNDING FACTOR 1-like protein 2; Flags: Precursor [Arabidopsis thaliana]
+SW_Score = 25	(i = 49, j = 321)	alignment_len = 28
+Query:	321	RDDAPLRKVAGIPGEFDKLRKNYLERRE	348
+			+DD+____+AG___++__L+K++_+_+E
+Sbjct:	49	KDDCWCCLAAGTKKDWCWLEKDFPDAKE	76
+
+>gi|677286758|sp|Q8NCS7.4|CTL5_HUMAN RecName: Full=Choline transporter-like protein 5; AltName: Full=Solute carrier family 44 member 5 [Homo sapiens]
+SW_Score = 30	(i = 590, j = 37)	alignment_len = 13
+Query:	37	DADALMVRSVTKV	49
+			DA__L++R+V_KV
+Sbjct:	590	DAFNLLMRNVLKV	602
+
+>gi|677286751|sp|Q8IVT5.3|KSR1_HUMAN RecName: Full=Kinase suppressor of Ras 1 [Homo sapiens]
+SW_Score = 42	(i = 167, j = 326)	alignment_len = 27
+Query:	326	LRKVAGIPGEFDKLRKNYLERREWSSL	352
+			LRKV+G+_GE_______+_E__+WSSL
+Sbjct:	167	LRKVTGLGGE-------HKEDSSWSSL	186
+
+>gi|677286748|sp|P0CF96.3|MZT1_SCHPO RecName: Full=Mitotic-spindle organizing protein 1; AltName: Full=Mitotic-spindle organizing protein associated with a ring of gamma-tubulin 1; AltName: Full=Transcripts altered in meiosis protein 4 [Schizosaccharomyces pombe 972h-]
+SW_Score = 30	(i = 15, j = 204)	alignment_len = 19
+Query:	204	INACRGAVVDNTALLTCLN	222
+			I++__G+_+D+T+L__C++
+Sbjct:	15	IGTLLGTELDKTTLSLCIS	33
+
+>gi|677286739|sp|A1UI62.2|RSMH_MYCSK RecName: Full=Ribosomal RNA small subunit methyltransferase H; AltName: Full=16S rRNA m(4)C1402 methyltransferase; AltName: Full=rRNA (cytosine-N(4)-)-methyltransferase RsmH [Mycobacterium sp. KMS]gi|677286740|sp|Q1B6W3.2|RSMH_MYCSS RecName: Full=Ribosomal RNA small subunit methyltransferase H; AltName: Full=16S rRNA m(4)C1402 methyltransferase; AltName: Full=rRNA (cytosine-N(4)-)-methyltransferase RsmH [Mycobacterium sp. MCS]
+SW_Score = 40	(i = 227, j = 308)	alignment_len = 35
+Query:	308	TLKRLVHLVYDVRRDDAPLRKVAGIPGE--FDKLR	340
+			T__+LV+L+YD+____AP_R+++G_P++__F+_LR
+Sbjct:	227	TTGELVELLYDA--IPAPARRTGGHPAKRTFQALR	259
+
+>gi|677286738|sp|A3Q1M6.2|RSMH_MYCSJ RecName: Full=Ribosomal RNA small subunit methyltransferase H; AltName: Full=16S rRNA m(4)C1402 methyltransferase; AltName: Full=rRNA (cytosine-N(4)-)-methyltransferase RsmH [Mycobacterium sp. JLS]
+SW_Score = 40	(i = 227, j = 308)	alignment_len = 35
+Query:	308	TLKRLVHLVYDVRRDDAPLRKVAGIPGE--FDKLR	340
+			T__+LV+L+YD+____AP_R+++G_P++__F+_LR
+Sbjct:	227	TTGELVELLYDA--IPAPARRTGGHPAKRTFQALR	259
+
+>gi|677286737|sp|A0R024.2|RSMH_MYCS2 RecName: Full=Ribosomal RNA small subunit methyltransferase H; AltName: Full=16S rRNA m(4)C1402 methyltransferase; AltName: Full=rRNA (cytosine-N(4)-)-methyltransferase RsmH [Mycobacterium smegmatis str. MC2 155]
+SW_Score = 38	(i = 237, j = 308)	alignment_len = 35
+Query:	308	TLKRLVHLVYDVRRDDAPLRKVAGIPGE--FDKLR	340
+			T_++LV+L+Y++____AP_R+++G_P++__F+_LR
+Sbjct:	237	TTSELVELLYEA--IPAPARRTGGHPAKRTFQALR	269
+
+>gi|677286735|sp|B2HGS5.2|RSMH_MYCMM RecName: Full=Ribosomal RNA small subunit methyltransferase H; AltName: Full=16S rRNA m(4)C1402 methyltransferase; AltName: Full=rRNA (cytosine-N(4)-)-methyltransferase RsmH [Mycobacterium marinum M]
+SW_Score = 34	(i = 280, j = 1)	alignment_len = 44
+Query:	1	MKILVDENMPYARDLFSRLGEVTAVPGRPIPVAQLADADALMVR	44
+			++I_V++++___R+_+____++_AV_GR_+_+A__+__D_++_R
+Sbjct:	280	LRIAVNDELGSLRSAIPAAMDALAVGGRIVVMAYQSLEDRIVKR	323
+
+>gi|677286732|sp|B1MP29.2|RSMH_MYCA9 RecName: Full=Ribosomal RNA small subunit methyltransferase H; AltName: Full=16S rRNA m(4)C1402 methyltransferase; AltName: Full=rRNA (cytosine-N(4)-)-methyltransferase RsmH [Mycobacterium abscessus ATCC 19977]
+SW_Score = 34	(i = 88, j = 200)	alignment_len = 22
+Query:	200	GAILINACRGAVVDNTALLTCL	221
+			GA+L++A__GA___+__+LT_L
+Sbjct:	88	GAVLVDATLGAGGHTEHFLTML	109
+
+>gi|677286731|sp|A0QF44.2|RSMH_MYCA1 RecName: Full=Ribosomal RNA small subunit methyltransferase H; AltName: Full=16S rRNA m(4)C1402 methyltransferase; AltName: Full=rRNA (cytosine-N(4)-)-methyltransferase RsmH [Mycobacterium avium 104]
+SW_Score = 32	(i = 276, j = 1)	alignment_len = 44
+Query:	1	MKILVDENMPYARDLFSRLGEVTAVPGRPIPVAQLADADALMVR	44
+			++I_V++++___R__+____++_AV_GR_+_+A__+__D_++_R
+Sbjct:	276	LRIAVNDELDTLRCALPAALDALAVDGRIVVLAYQSLEDRIVKR	319
+
+>gi|677286728|sp|Q8NH95.2|O13C6_HUMAN RecName: Full=Putative olfactory receptor 13C6; AltName: Full=Olfactory receptor, family 13, subfamily C, member 6 pseudogene; AltName: Full=Olfactory receptor, family 13, subfamily C, member 7 pseudogene; AltName: Full=Putative olfactory receptor 13C7 [Homo sapiens]
+SW_Score = 23	(i = 127, j = 355)	alignment_len = 23
+Query:	355	ICDDASAASLLCKLGFNAVHHPA	377
+			IC+______++_K_++__++_PA
+Sbjct:	127	ICNPLRYPVVMSKAAYMPIRLPA	149
+
+>gi|677286723|sp|P20303.2|GTR1_PIG RecName: Full=Solute carrier family 2, facilitated glucose transporter member 1; AltName: Full=Glucose transporter type 1, erythrocyte/brain; Short=GLUT-1 [Sus scrofa]
+SW_Score = 26	(i = 45, j = 73)	alignment_len = 15
+Query:	73	DEAWLKQAGIGFSAA	87
+			+++WL_+_G_++S_A
+Sbjct:	45	NQTWLHRYGESISPA	59
+
+>gi|694016578|sp|C0HJE6.1|PORA_CORAY RecName: Full=Porin PorA; Flags: Precursor [Corynebacterium amycolatum]
+SW_Score = 29	(i = 241, j = 44)	alignment_len = 18
+Query:	44	RSVTKVNESLLAGKPIKF	61
+			R++T++++S_LA+__++F
+Sbjct:	241	RKLTEADKSSLASMRLSF	258
+
+>gi|667467199|sp|B3EWZ2.1|USOM8_ACRMI RecName: Full=Uncharacterized skeletal organic matrix protein 8; Short=Uncharacterized SOMP-8; Flags: Precursor [Acropora millepora]
+SW_Score = 34	(i = 156, j = 140)	alignment_len = 14
+Query:	140	IKTLLCDPPRADRG	153
+			I+_+LCD_P__D_G
+Sbjct:	156	INEVLCDVPGLDCG	169
+
+>gi|667467198|sp|B8WI85.1|USOM7_ACRMI RecName: Full=Uncharacterized skeletal organic matrix protein 7; Short=Uncharacterized SOMP-7; Flags: Precursor [Acropora millepora]
+SW_Score = 36	(i = 315, j = 235)	alignment_len = 31
+Query:	235	EGEPELNVELLKKVDIGTSHIAGYTLEGKAR	265
+			E_E_+_+___++__++G____+GY_L+GK_R
+Sbjct:	315	EDEDNYDFVYFRPHSVGGCFQTGYLLKGKPR	345
+
+>gi|667467197|sp|B8VIX3.1|USOM6_ACRMI RecName: Full=Uncharacterized skeletal organic matrix protein 6; Short=Uncharacterized SOMP-6; Flags: Precursor [Acropora millepora]
+SW_Score = 30	(i = 206, j = 5)	alignment_len = 22
+Query:	5	VDENMPYARDLFSRLGEVTAVP	26
+			V+ENM___R+++___+E+__+P
+Sbjct:	206	VEENMQALRNFLPSQSEAMDLP	227
+
+>gi|667467196|sp|B8VIU6.1|USOM5_ACRMI RecName: Full=Uncharacterized skeletal organic matrix protein 5; Short=Uncharacterized SOMP-5; Flags: Precursor [Acropora millepora]
+SW_Score = 34	(i = 81, j = 321)	alignment_len = 18
+Query:	321	RDDAPLRKVAGIPGEFDK	338
+			R_+AP+_++++___+FDK
+Sbjct:	81	RHSAPVASISSCKEQFDK	98
+
+>gi|667467195|sp|B8UU74.1|USOM4_ACRMI RecName: Full=Uncharacterized skeletal organic matrix protein 4; Short=Uncharacterized SOMP-4, partial [Acropora millepora]
+SW_Score = 31	(i = 36, j = 20)	alignment_len = 37
+Query:	20	GEVTAVPGRPIPVAQLADADALMVRSVTKVNESLLAG	56
+			G_VTA__GR_____+_++A+A__+_+_+K++_++_AG
+Sbjct:	36	GPVTAPKGR-----HTVEAEAQALPQQAKMQATVAAG	67
+
+>gi|667467194|sp|B8RJM0.1|USOM3_ACRMI RecName: Full=Uncharacterized skeletal organic matrix protein 3; Short=Uncharacterized SOMP-3; Flags: Precursor, partial [Acropora millepora]
+SW_Score = 32	(i = 359, j = 20)	alignment_len = 28
+Query:	20	GEVTAV-PGRPIPVAQLADADALMVRSV	46
+			G+VT_+_P__P+P__+___A+_++_RSV
+Sbjct:	359	GKVTRMGPLPPLPGEESIYAEPMIKRSV	386
+
+>gi|667467193|sp|B7WFQ1.1|USOM2_ACRMI RecName: Full=Uncharacterized skeletal organic matrix protein 2; Short=Uncharacterized SOMP-2; Flags: Precursor [Acropora millepora]
+SW_Score = 26	(i = 353, j = 197)	alignment_len = 8
+Query:	197	LKPGAILI	204
+			LKP+AI_+
+Sbjct:	353	LKPAAITV	360
+
+>gi|667467192|sp|B3EX00.1|USOM1_ACRMI RecName: Full=Uncharacterized skeletal organic matrix protein 1; Short=Uncharacterized SOMP-1, partial [Acropora millepora]
+SW_Score = 29	(i = 143, j = 45)	alignment_len = 26
+Query:	45	SVTKVNESLLAGKPIKFVGTATAGTD	70
+			+V++VN_+L_A+__+++_G__T+__D
+Sbjct:	143	NVNSVNLTLSASVSVQIDGPHTSRID	168
+
+>gi|667467190|sp|B3EWZ7.1|TRP_ACRMI RecName: Full=Threonine-rich protein; Flags: Precursor, partial [Acropora millepora]
+SW_Score = 36	(i = 91, j = 68)	alignment_len = 26
+Query:	68	GTDHVDEAWLKQAGIGFSAAPGCNAI	93
+			GT__V_++_++_+G++_+__PGC+A+
+Sbjct:	91	GTTTVTRGCFNITGLNCGDNPGCGAL	116
+

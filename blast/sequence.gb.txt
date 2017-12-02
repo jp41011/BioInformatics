@@ -1,0 +1,167 @@
+LOCUS       ECU76961                3837 bp    DNA     linear   BCT 23-NOV-1996
+DEFINITION  Escherichia coli beta-ketoacyl-ACP synthase I (fabB) gene, partial
+            cds, DIV (div) and 4-phosphoerythronate dehydrogenase (pdxB) genes,
+            complete cds.
+ACCESSION   U76961
+VERSION     U76961.1  GI:1684784
+KEYWORDS    .
+SOURCE      Escherichia coli str. K-12 substr. W3110
+  ORGANISM  Escherichia coli str. K-12 substr. W3110
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 2338 to 3837)
+  AUTHORS   Schoenlein,P.V., Roa,B.B. and Winkler,M.E.
+  TITLE     Divergent transcription of pdxB and homology between the pdxB and
+            serA gene products in Escherichia coli K-12
+  JOURNAL   J. Bacteriol. 171 (11), 6084-6092 (1989)
+   PUBMED   2681152
+REFERENCE   2  (bases 314 to 2337)
+  AUTHORS   Pease,A.J., Schoenlein,P.V. and Winkler,M.E.
+  TITLE     Sequence from fabB to pdxB
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 3837)
+  AUTHORS   Pease,A.J., Schoenlein,P.V. and Winkler,M.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-OCT-1996) Microbiology and Molecular Genetics,
+            University of Texas Medical School, 6431 Fannin, Bldg. JFB 1.765,
+            Houston, TX 77030, USA
+FEATURES             Location/Qualifiers
+     source          1..3837
+                     /organism="Escherichia coli str. K-12 substr. W3110"
+                     /mol_type="genomic DNA"
+                     /strain="K-12"
+                     /isolate="W3110"
+                     /db_xref="taxon:316407"
+                     /map="50 minutes"
+                     /note="The source of the DNA was plasmid pTX277 which
+                     contains an ecoRI fragment from Kohara phage lambda 407"
+     gene            1..22
+                     /gene="fabB"
+     CDS             <1..22
+                     /gene="fabB"
+                     /EC_number="2.3.1.41"
+                     /codon_start=2
+                     /transl_table=11
+                     /product="beta-ketoacyl-ACP synthase I"
+                     /protein_id="AAB36527.1"
+                     /db_xref="GI:1684785"
+                     /translation="MRKLKD"
+     CDS             286..1464
+                     /note="Orf1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="unknown"
+                     /protein_id="AAB36528.1"
+                     /db_xref="GI:1684786"
+                     /translation="MTAVSQTETRSSANFSLFRIAFAVFLTYMTVGLPLPVIPLFVHH
+                     ELGYGNTMVGIAVGIQFLATVLTRGYAGRLADQYGAKRSALQGMLACGLAGGALLLAA
+                     ILPVSAPFKFALLVVGRLILGFGESQLLTGALTWGLGIVGPKHSGKVMSWNGMAIYGA
+                     LAVGAPLGLLIHSHYGFAALAITTMVLPVLAWACNGTVRKVPALAGERPSLWSVVGLI
+                     WKPGLGLALQGVGFAVIGTFVSLYFASKGWAMAGFTLTAFGGAFVVMRVMFGWMPDRF
+                     GGVKVAIVSLLVETVGLLLLWQAPGAWVALAGAALTGAGCSLIFPALGVEVVKRVPSQ
+                     VRGTALGGYAAFQDIALGVSGPLAGMLATTFGYSSVFLAGAISAVLGIIVTILSFRRG
+                     "
+     gene            complement(1461..2456)
+                     /gene="div"
+     CDS             complement(1461..2456)
+                     /gene="div"
+                     /function="unknown"
+                     /note="gene transcribed divergently to pdxB"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Div"
+                     /protein_id="AAB36529.1"
+                     /db_xref="GI:1684787"
+                     /translation="MIQPISGPPPGQPPGQGDNLPSGTGNQPLSSQQRTSLESLMTKV
+                     TSLTQQQRAELWAGIRHDIGLSGDSPLLSRHFPAAEHNLAQRLLAAQKSHSARQLLAQ
+                     LGEYLRLGNNRQAVTDYIRHNFGQTPLNQLSPEQLKTILTLLQEGKMVIPQPQQREAT
+                     DRPLLPAEHNALKQLVTKLAAATGEPSKQIWQSMLELSGVKDGELIPAKLFNHLVTWL
+                     QARQTLSQQNTPTLESLQMTLKQPLDASELAALSAYIQQKYGLSAQSSLSSAQAEDIL
+                     NQLYQRRVKGIDPRVMQPLLNPFPPMMDTLQNMATRPALWILLVAIILMLVWLVR"
+     gene            2522..3837
+                     /gene="pdxB"
+     mRNA            2522..3837
+                     /gene="pdxB"
+                     /product="4-phosphoerythronate dehydrogenase"
+     CDS             2555..3691
+                     /gene="pdxB"
+                     /note="D-isomer specific, 2-hydroxyacid dehydrogenase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="4-phosphoerythronate dehydrogenase"
+                     /protein_id="AAB36530.1"
+                     /db_xref="GI:1684788"
+                     /translation="MKILVDENMPYARDLFSRLGEVTAVPGRPIPVAQLADADALMVR
+                     SVTKVNESLLAGKPIKFVGTATAGTDHVDEAWLKQAGIGFSAAPGCNAIAVVEYVFSS
+                     LLMLAERDGFSLYDRTVGIVGVGNVGRRLQARLEALGIKTLLCDPPRADRGDEGDFRS
+                     LDELVQRADILTFHTPLFKDGPYKTLHLADEKLIRSLKPGAILINACRGAVVDNTALL
+                     TCLNEGQKLSVVLDVWEGEPELNVELLKKVDIGTSHIAGYTLEGKARGTTQVFEAYSK
+                     FIGHEQHVALDTLLPAPEFGRITLHGPLDQPTLKRLVHLVYDVRRDDAPLRKVAGIPG
+                     EFDKLRKNYLERREWSSLYVICDDASAASLLCKLGFNAVHHPAR"
+ORIGIN      
+        1 aatgcgcaag ctgaaagatt aattcgccgt aggtcgggta aggcgcgcca ggctcgcatc
+       61 cgacgttacg cgccaatgcg gcctccggca ctaacacaaa aagggaaccc gatggttccc
+      121 tttttcacat cattgacaat cgcctggttc caggcaaact tcccgctttg tcgatttcct
+      181 tctgaaaaga cgtacgcgtt aaatcctgcc aacgcactgt aaccctgaaa ccagagagat
+      241 gagacgggga tactcctcgc cttgcgctgc attctggagt aatgcatgac tgctgtaagc
+      301 caaaccgaaa cacgatcttc tgccaatttt tcgctcttcc gcatcgcttt tgcggttttt
+      361 ctcacctaca tgaccgtagg gttgccgttg ccggttatcc cgctgtttgt tcatcatgaa
+      421 ctgggctatg gcaataccat ggtcggcatt gccgtcggga ttcagtttct ggctacggtg
+      481 ctgacgcgtg gttacgccgg gcgactggcc gatcaatatg gtgcaaaacg ttcggcgctt
+      541 cagggaatgt tagcttgtgg tctggctggc ggcgcgttgc tgctggcggc gattttgcct
+      601 gtctccgcac cgttcaaatt tgctctgttg gtcgtcgggc gtttgattct tggctttggt
+      661 gaaagccagt tactgacagg cgctctgacc tggggactag gcatcgtagg gccaaaacac
+      721 tctggcaaag tgatgtcatg gaacggaatg gcgatttacg gtgccctcgc tgttggtgct
+      781 ccgcttggcc tgttgattca tagccattac ggttttgccg cactggcgat caccacaatg
+      841 gtattacccg tactggcgtg ggcctgtaac ggcacagtgc gcaaagtacc ggccctggcg
+      901 ggagaacgtc catcgctgtg gagcgttgtc gggcttatct ggaaaccagg gttaggtctg
+      961 gcactacaag gcgttggttt tgctgttatc gggactttcg tttcgctcta ctttgccagc
+     1021 aaaggatggg cgatggcggg ctttactctt accgcgtttg gcggcgcatt tgtcgtgatg
+     1081 cgcgtcatgt ttggctggat gccggaccgt tttggcggcg tgaaagtggc gattgtctct
+     1141 ctgcttgtag aaacggtggg cttgttgctg ctctggcaag ccccaggtgc atgggtcgca
+     1201 ttagcgggcg cggcgttaac cggagccgga tgttcgctta tctttcctgc gctgggcgtg
+     1261 gaggtggtta aacgcgtccc ctcacaagtt cgcggcaccg cactgggcgg ttacgccgcg
+     1321 tttcaggata tcgccctcgg cgtctccggg ccgctggcgg gaatgctggc gaccacgttt
+     1381 ggttactctt cggtatttct tgccggggcg atctctgcgg tgctgggtat tattgtcacg
+     1441 atactgtcat ttcgtcgggg ttaacgaacc agccagacca gcatcaggat aatcgcgact
+     1501 aacagtatcc acagcgcggg acgcgttgcc atattttgca acgtgtccat catcggtgga
+     1561 aaaggattaa gcagcggttg cataacacgc ggatcaatcc ctttaacccg ccgttgataa
+     1621 agctgattaa gaatatcctc ggcctgggca gaagaaagcg atgattgcgc agaaagacca
+     1681 tatttttgct ggatatatgc cgataacgcc gccagttcac tggcatctaa aggttgtttt
+     1741 agcgtcatct gtagtgattc cagcgtcggc gtattttgct ggcttagcgt ctgacgcgcc
+     1801 tgtagccagg tcaccagatg gttaaacagt ttcgctggaa ttaactcgcc atctttcacc
+     1861 ccggaaagtt ccagcatcga ttgccagatc tgtttgctgg gttcccccgt tgccgccgca
+     1921 agtttggtca ccagctgttt tagcgcattg tgctccgccg gtaataaagg acggtcggtc
+     1981 gcctcgcgct gctgtggttg cggaataacc atcttccctt cctgcaacag ggtgagaatg
+     2041 gtttttaatt gctccggtga gagctgattc agcggcgtct gaccaaagtt atgacggata
+     2101 taatccgtga ccgcctgacg attattcccc agacgtaaat actcccctaa ttgcgctaaa
+     2161 agctggcggg cagaatggct tttttgcgcg gccagcagac gttgcgccag attatgctca
+     2221 gcggcaggga agtgacgcga aagcagcggt gaatctcccg acagaccaat atcgtgcctg
+     2281 atacccgccc acagttctgc tctttgctgt tgcgtcagtg aggtcacttt cgtcattaag
+     2341 ctttccagcg aagtacgttg ctgactggat aaaggctgat tgcccgtgcc agacggcaga
+     2401 ttatctccct gacctggtgg ttgcccagga ggagggccgg aaataggttg tatcattacg
+     2461 tatccttata cctgaaatct tcgcaagtat gcctggccgc gagattatgg cacacttgtc
+     2521 cggttaactc tcgtctcata caggtaacac aaacgtgaaa atccttgttg atgaaaatat
+     2581 gccttatgcc cgcgacttat ttagccgttt gggtgaggtg accgcggttc ccgggcgtcc
+     2641 aatccccgtc gctcaactgg cagacgcgga tgcgctgatg gtgcgttcgg tcacgaaagt
+     2701 gaatgaatct ttgctggcag gaaaacccat taaatttgtt ggcactgcca ctgcggggac
+     2761 cgaccatgtc gatgaagcat ggttgaagca ggcgggaatt ggtttttccg ctgcacctgg
+     2821 ctgtaatgcg attgcggtgg tggaatatgt tttctcctcc ctgctgatgc ttgccgaacg
+     2881 cgatggattt tcactgtacg accgtacggt ggggatcgtg ggcgttggta acgttggacg
+     2941 tcgattgcag gcgcgactgg aagcgttagg gattaaaacc ttactttgcg atccgcctcg
+     3001 cgccgaccgt ggggatgagg gtgatttccg ctcgctggat gagttagtcc agcgcgcgga
+     3061 tattctgact ttccatacgc cactctttaa agatggtccg tacaaaacgc tacatctggc
+     3121 ggatgaaaaa ctgatccgta gcctgaagcc cggagcgatt ctgattaacg cctgccgtgg
+     3181 cgcagtcgtc gataatactg cgttgctgac ctgcctgaat gaaggccaga agttaagcgt
+     3241 agtgctggat gtctgggaag gcgaaccgga actcaacgtc gagctgctga aaaaagtgga
+     3301 tatcggcacg tcgcatatcg caggctatac cctggaaggt aaagcacgcg gtactacgca
+     3361 agtgtttgaa gcttatagca agtttattgg gcatgaacag cacgttgcgc tggatacatt
+     3421 actgcctgcg ccagagtttg gtcgcattac gctgcatggc ccgctcgatc aaccgacgct
+     3481 gaaaaggctg gtgcatttgg tgtatgatgt gcgccgcgat gacgcaccgc tgcgtaaagt
+     3541 cgccgggata ccgggtgagt tcgataaact gcgcaaaaac tatcttgagc gccgtgaatg
+     3601 gtcatctctg tatgtaattt gtgatgacgc cagtgcggca tcattgctgt gtaaactggg
+     3661 ttttaacgcc gttcatcatc cggcacgtta atctcttctt catgctctct gctgtaacat
+     3721 tggcagggag ctttgctatt tctggagtaa accaccatgt ctgaaggctg gaacattgcc
+     3781 gtcctgggcg caactggcgc tgtgggcgaa gccctgcttg aaacgctggc tgaacgt
+//
+

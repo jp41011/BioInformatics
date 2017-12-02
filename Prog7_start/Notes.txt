@@ -1,0 +1,12 @@
+Steps after the prep
+1. ./bowtie-build chr1_masked_1.fa CHR1_7
+- which was the output from task1
+- which will be our bowtie DB
+2. ./bowtie -m 1 -v 3 CHR1_7 ERR030893-1.fq > BTout_m1_v3
+- run bowtie with our output as the DB and the given file as the query file
+3. Now have to remove some columns from BTout_m1_v3
+- used ReqEx to remove the ...length=75... and replace with \t
+- used " length=\d*\t" and replaced with "\t"
+3.1 also have to fill in the space after the first space in each line to combine it into one column
+- used ReqEx "^\w*\.\d*" and replaced the space that follow that ReqEx with "_"
+4. now have to do the gene and exon counting

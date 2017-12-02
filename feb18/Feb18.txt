@@ -1,0 +1,11 @@
+* Contig - 
+	fragments
+*combine 2 databases (union) removing the duplicates
+	* HMP DB and MetaHIT
+	* keeping all unique
+1. map metaHIT -> HMP => MetaHIT_nr_HMP [A file]
+2. map HMP -> MetaHIT_nr_HMP => HMP_nr_(MetaHIT_nr_HMP)	[B file]
+3. union of the results from steps 1 and 2 combine [C file]
+	nothing duplicated now
+
+90 <= |alignemtn length| / |query length| <= 110

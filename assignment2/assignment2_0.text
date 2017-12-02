@@ -1,0 +1,4 @@
+>chr1.67098752.67098777.NM_032291_exon_2.+	len=25
+ref(1-10) = NNNNNNNNNN ; pattern = AGGTTCACCAGATAGAGATGGAATT
+--- Optimum Smith-Waterman score = 48 (i=24, j=67098776)
+

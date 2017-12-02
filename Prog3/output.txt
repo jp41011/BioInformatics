@@ -1,0 +1,18 @@
+Juan Pedraza - CSci 291T - Prog3 Output
+=======================================
+getBestMedians()
+	PQ_Size: 5
+	priorityQ.size: 4096
+	AAGTAA: 10
+	TTGTAA: 10
+	TTGTGA: 10
+	ACGTAA: 11
+	ATGTAA: 11
+	getBestMedians() - after loop
+AAGTAA
+TTGTAA
+TTGTGA
+ACGTAA
+ATGTAA
+after getMedians();
+medianVec size: 5

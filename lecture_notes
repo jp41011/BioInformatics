@@ -1,0 +1,44 @@
+BLAST
+	Basic Local Alignment Search Tool
+RC-BLAST
+	* 
+	*TreeBLAST
+	*NC-BLASTn ... 
+NCBI Blast
+	* 
+BLAST+ 3.0..
+	* cpp version
+probability close to 0 means this is the only strong alignment
+	- strong matching
+*Execution Flow of NCBI Blast
+HSP - high scoring pairs
+10^-5 => seriously aligned in the real world
+	* good matching
+*Smith-Waterman
+	*
+*Heuristics: seeding
+	* assumption: significant aligments have words in common
+	*Seed=3 => 3 bases
+	*Protein-seed = 3
+	*DNA seed = 11
+	*two-hit-distance: 
+*Heuristics: extension
+	* 
+BLOSOM62 score matrix
+	- 62 - more than 62% similar => combined into the same protein sequence
+*Evaluation
+	* Evalue = K * m' * n' * exp^(-lambda*s)
+	*Gapped-alignment: single Evalue
+	* ungapped-alignment: multiple evalues
+* 1 database sequence can provide multiple alignments
+* Blast program -flag options
+	-num_descriptions 1000
+	-num_alignments 800
+*smith-waterman
+	* search entire search space no heuristic
+*Second Programming Assignment
+	* 2 weeks
+	* impliment smith waterman 
+	* two column/row version
+	*smith-waterman sudo code on blackboard
+	* 
